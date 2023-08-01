@@ -1,7 +1,7 @@
 # Crypto Tracker
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![GitHub](https://img.shields.io/github/license/Jishnu2608/CryptoTracker)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jishnu2608/CryptoTracker)
 
 ## Description
 
