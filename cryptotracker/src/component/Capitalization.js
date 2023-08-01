@@ -6,7 +6,7 @@ import { getAllCurrencies } from 'component/api';
 import Currencies from './Currencies';
 import Loading from 'component/Loading';
 import { HighlightOffOutlined } from '@mui/icons-material';
-import styles from "../Styles.module.css";
+import styles from "../Styles.css";
 import SearchedCoin from './SearchedCoin';
 import { search } from 'component/api';
 
