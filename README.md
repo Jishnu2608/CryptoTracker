@@ -22,14 +22,13 @@ Install CryptoTracker with npm
 Install dependencies
 
 ```bash
+    cd cryptotracker
     npm install
-    
     npm install --save-dev @babel plugin-proposal-private-property-in-object (Optional)
 ```
 
 Run the application
 ```bash
-    cd cryptotracker
     npm start
 ```
 ## Usage
