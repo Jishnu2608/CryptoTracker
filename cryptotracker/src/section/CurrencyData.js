@@ -6,7 +6,7 @@ import Loading from 'component/Loading';
 import { Anchor, AutorenewRounded, BoltOutlined, OfflineBoltOutlined, Straight } from '@mui/icons-material';
 import { StatBarHeader } from "component/commons";
 import { AdvancedRealTimeChart } from "react-ts-tradingview-widgets";
-import styles from "../Styles.module.css"
+import styles from "../Styles.css"
 
 const CurrencyData = () => {
   const {currency, vsCurrency} = useContext(AppContext);

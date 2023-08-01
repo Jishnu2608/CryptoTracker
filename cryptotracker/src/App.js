@@ -2,7 +2,7 @@ import { Box, Grid } from "@mui/material";
 import React, { useState, createContext } from "react";
 import CurrencyData from "section/CurrencyData";
 import Capitalization from "section/Capitalization";
-import styles from "./Styles.module.css";
+import styles from "./Styles.css";
 
 export const AppContext = createContext();
 
